@@ -1,4 +1,4 @@
-# Solution: TCIT Fullstack Challenge 2026 🚀
+# Solucion: TCIT Fullstack Challenge 2026 
 
 Este repositorio contiene mi solución técnica para el proceso de selección de TCIT. El proyecto ha sido diseñado bajo una arquitectura desacoplada, priorizando la **mantenibilidad**, el **rendimiento en red** y la **claridad de código**.
 
@@ -44,4 +44,4 @@ npm run dev
 *   **Separación de Responsabilidades:** Arquitectura estrictamente dividida entre `client` y `server`.
 *   **Seguridad:** Sanitización de consultas SQL nativa mediante el ORM.
 
-*Desarrollado con enfoque en ingeniería por Rodrigo Hernandez.*
+*Desarrollado por Rodrigo Hernandez.*
